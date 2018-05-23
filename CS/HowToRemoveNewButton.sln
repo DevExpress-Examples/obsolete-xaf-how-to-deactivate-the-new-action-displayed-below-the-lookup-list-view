@@ -1,0 +1,63 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToRemoveNewButton.Module", "HowToRemoveNewButton.Module\HowToRemoveNewButton.Module.csproj", "{269F39F8-D63D-485A-ACC8-A014B1AF2085}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToRemoveNewButton.Module.Web", "HowToRemoveNewButton.Module.Web\HowToRemoveNewButton.Module.Web.csproj", "{8B4C4C7E-66D1-4769-B71D-757863FA4114}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToRemoveNewButton.Web", "HowToRemoveNewButton.Web\HowToRemoveNewButton.Web.csproj", "{DD41A65F-FB9A-4555-A3E3-732383FC834B}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToRemoveNewButton.Module.Win", "HowToRemoveNewButton.Module.Win\HowToRemoveNewButton.Module.Win.csproj", "{16D7815C-8487-4271-932B-B43D61155D6D}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowToRemoveNewButton.Win", "HowToRemoveNewButton.Win\HowToRemoveNewButton.Win.csproj", "{D69317AF-9452-49C3-A2E6-337438ABC055}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{269F39F8-D63D-485A-ACC8-A014B1AF2085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269F39F8-D63D-485A-ACC8-A014B1AF2085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269F39F8-D63D-485A-ACC8-A014B1AF2085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269F39F8-D63D-485A-ACC8-A014B1AF2085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B4C4C7E-66D1-4769-B71D-757863FA4114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B4C4C7E-66D1-4769-B71D-757863FA4114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B4C4C7E-66D1-4769-B71D-757863FA4114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B4C4C7E-66D1-4769-B71D-757863FA4114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD41A65F-FB9A-4555-A3E3-732383FC834B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD41A65F-FB9A-4555-A3E3-732383FC834B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD41A65F-FB9A-4555-A3E3-732383FC834B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD41A65F-FB9A-4555-A3E3-732383FC834B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D7815C-8487-4271-932B-B43D61155D6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D7815C-8487-4271-932B-B43D61155D6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D7815C-8487-4271-932B-B43D61155D6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D7815C-8487-4271-932B-B43D61155D6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D69317AF-9452-49C3-A2E6-337438ABC055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D69317AF-9452-49C3-A2E6-337438ABC055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D69317AF-9452-49C3-A2E6-337438ABC055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D69317AF-9452-49C3-A2E6-337438ABC055}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
