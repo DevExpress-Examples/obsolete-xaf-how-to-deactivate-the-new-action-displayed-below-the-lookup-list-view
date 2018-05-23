@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <Options LookupSmallCollectionItemCount="0" />
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="12.2.6.0" IsNewNode="True" />
+  </SchemaModules>
+</Application>
