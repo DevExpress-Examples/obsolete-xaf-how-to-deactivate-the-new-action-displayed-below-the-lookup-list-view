@@ -1,0 +1,54 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNewButtonInLookups.Module", "RemoveNewButtonInLookups.Module\RemoveNewButtonInLookups.Module.csproj", "{0ED9F4E9-0DDB-405E-A44B-30468A2AB017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNewButtonInLookups.Web", "RemoveNewButtonInLookups.Web\RemoveNewButtonInLookups.Web.csproj", "{4C7564D4-6BAC-42D4-95DE-4D104FB6D06F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNewButtonInLookups.Win", "RemoveNewButtonInLookups.Win\RemoveNewButtonInLookups.Win.csproj", "{60C4C047-46DA-4D12-85CC-5A3D6C56E876}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNewButtonInLookups.Module.Win", "RemoveNewButtonInLookups.Module.Win\RemoveNewButtonInLookups.Module.Win.csproj", "{165FAFC7-04E6-4FCB-B88C-C92BBF979DD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNewButtonInLookups.Module.Web", "RemoveNewButtonInLookups.Module.Web\RemoveNewButtonInLookups.Module.Web.csproj", "{0205930F-A589-43DA-BB48-751833FF66EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ED9F4E9-0DDB-405E-A44B-30468A2AB017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED9F4E9-0DDB-405E-A44B-30468A2AB017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED9F4E9-0DDB-405E-A44B-30468A2AB017}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{0ED9F4E9-0DDB-405E-A44B-30468A2AB017}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{0ED9F4E9-0DDB-405E-A44B-30468A2AB017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED9F4E9-0DDB-405E-A44B-30468A2AB017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C7564D4-6BAC-42D4-95DE-4D104FB6D06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C7564D4-6BAC-42D4-95DE-4D104FB6D06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C7564D4-6BAC-42D4-95DE-4D104FB6D06F}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{4C7564D4-6BAC-42D4-95DE-4D104FB6D06F}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{4C7564D4-6BAC-42D4-95DE-4D104FB6D06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C7564D4-6BAC-42D4-95DE-4D104FB6D06F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C4C047-46DA-4D12-85CC-5A3D6C56E876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C4C047-46DA-4D12-85CC-5A3D6C56E876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C4C047-46DA-4D12-85CC-5A3D6C56E876}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{60C4C047-46DA-4D12-85CC-5A3D6C56E876}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{60C4C047-46DA-4D12-85CC-5A3D6C56E876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C4C047-46DA-4D12-85CC-5A3D6C56E876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{165FAFC7-04E6-4FCB-B88C-C92BBF979DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{165FAFC7-04E6-4FCB-B88C-C92BBF979DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{165FAFC7-04E6-4FCB-B88C-C92BBF979DD8}.EasyTest|Any CPU.ActiveCfg = Release|Any CPU
+		{165FAFC7-04E6-4FCB-B88C-C92BBF979DD8}.EasyTest|Any CPU.Build.0 = Release|Any CPU
+		{165FAFC7-04E6-4FCB-B88C-C92BBF979DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{165FAFC7-04E6-4FCB-B88C-C92BBF979DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0205930F-A589-43DA-BB48-751833FF66EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0205930F-A589-43DA-BB48-751833FF66EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0205930F-A589-43DA-BB48-751833FF66EB}.EasyTest|Any CPU.ActiveCfg = Release|Any CPU
+		{0205930F-A589-43DA-BB48-751833FF66EB}.EasyTest|Any CPU.Build.0 = Release|Any CPU
+		{0205930F-A589-43DA-BB48-751833FF66EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0205930F-A589-43DA-BB48-751833FF66EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
