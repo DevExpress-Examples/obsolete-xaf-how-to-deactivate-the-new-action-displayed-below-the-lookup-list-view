@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyController.cs](./CS/HowToRemoveNewButton.Module/MyController.cs) (VB: [MyController.vb](./VB/HowToRemoveNewButton.Module/MyController.vb))
+<!-- default file list end -->
 # OBSOLETE - How to Deactivate the New Action displayed below the Lookup List View
 
 
