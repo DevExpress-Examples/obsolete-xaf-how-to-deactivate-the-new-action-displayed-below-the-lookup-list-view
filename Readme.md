@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [WebDeactivateNewActionInLookupsController.cs](./CS/RemoveNewButtonInLookups.Module.Web/WebDeactivateNewActionInLookupsController.cs) (VB: [WebDeactivateNewActionInLookupsController.vb](./VB/RemoveNewButtonInLookups.Module.Web/WebDeactivateNewActionInLookupsController.vb))
+* [WinDeactivateNewActionInLookupsController.cs](./CS/RemoveNewButtonInLookups.Module.Win/WinDeactivateNewActionInLookupsController.cs) (VB: [WinDeactivateNewActionInLookupsController.vb](./VB/RemoveNewButtonInLookups.Module.Win/WinDeactivateNewActionInLookupsController.vb))
+* **[DeactivateNewActionInLookupsController.cs](./CS/RemoveNewButtonInLookups.Module/DeactivateNewActionInLookupsController.cs) (VB: [DeactivateNewActionInLookupsController.vb](./VB/RemoveNewButtonInLookups.Module/DeactivateNewActionInLookupsController.vb))**
+<!-- default file list end -->
 # OBSOLETE - How to Deactivate the New Action displayed below the Lookup List View
 
 
